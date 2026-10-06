@@ -1,6 +1,5 @@
 a <- 10
 b <- 3
-
 a + b    # Addition
 a - b    # Subtraction
 a * b    # Multiplication
